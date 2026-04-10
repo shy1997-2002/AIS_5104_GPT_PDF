@@ -10,8 +10,7 @@ The full interaction logs have been exported and compiled into a PDF document, w
 
 ## LLMs Used
 
-- GPT-5.3 (ChatGPT)
-- Gemini 3.1 Pro
+- GPT-5.3 or GPT-5.4(base on question type)
 
 These models were used for structured idea generation, iterative refinement, and academic writing support.
 
