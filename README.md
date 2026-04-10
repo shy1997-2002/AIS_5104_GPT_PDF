@@ -18,7 +18,7 @@ These models were used for structured idea generation, iterative refinement, and
 
 ## Contents
 
-- `prompt_history.pdf`  
+- `AIS5104 in Scientific Discovery.pdf`  
   Contains the full sequence of prompts and corresponding outputs, including:
   - Initial brainstorming prompts
   - Outline generation
